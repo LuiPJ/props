@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Muli:400,300italic,300,400italic);
+body,
+html {
+  margin: 0;
+  font-family: muli;
+  height: 100%;
+  padding: 0;
+  overflow-x:hidden;
+}
+
+li {
+  list-style-type: none;
+}
+
+.card-body-stars {
+  display: flex;
+  justify-content: center;
+}
